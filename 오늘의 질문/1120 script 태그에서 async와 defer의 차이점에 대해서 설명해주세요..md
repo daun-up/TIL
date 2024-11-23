@@ -37,6 +37,6 @@ script 태그는 html 의 어디에 넣는 것이 가장 좋을까?<br>프로젝
 
 html 로드를 중간에 blocking 하지 않도록 body 태그 최하단에 배치하는 것이 FCP, LCP 향상에 큰 도움이 될 것으로 보입니다. - 지원 오빠 블로그 자료
 
-![alt text](image.png)
+![alt text](/assets/image1.png)
 
 참고 자료 [https://what-time.tistory.com/50]
